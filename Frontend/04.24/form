@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>폼</title>
+</head>
+
+<body>
+    <h1>form</h1>
+    <form>
+        <label for="name">이름:</label>
+        <입력 유형="텍스트" 아이디="이름" 이름="이름"><br><br>
+        <label for="email">이메일:</label>
+        <입력 유형="이메일" id="이메일" 이름="이메일"><br><br>
+        <label for="password">비밀번호:</label>
+        <입력 유형="비밀번호" id="비밀번호" 이름="비밀번호"><br><br>
+        <input type="submit" value="제출">
+    </form>
+</body>
+
+</html>

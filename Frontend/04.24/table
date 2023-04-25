@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <제목>테이블</제목>
+</head>
+
+<body>
+    <h1>테이블</h1>
+    <table>
+
+        <head>
+            <TR>
+                <th>이름</th>
+                <th>나이</th>
+            </tr>
+            </thead>
+            <tbody>
+                <TR>
+                    <td>홍길동</td>
+                    <td>30</td>
+                </tr>
+                <TR>
+                    <td>김철수</td>
+                    <td>25</td>
+                </tr>
+            </tbody>
+    </table>
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>테이블</title>
+</head>
+
+<body>
+    <h1>테이블입니다. 이름과 나이를 표시합니다</h1>
+    <table>
+        <thead>
+            <Tr>
+                <th>이름</th>
+                <th>나이</th>
+            </tr>
+        </thead>
+        <tbody>
+            <Tr>
+                <td>홍길동</td>
+                <td>99</td>
+            </tr>
+            <Tr>
+                <td>홍길동</td>
+                <td>99</td>
+            </tr>
+            <Tr>
+                <td>홍길동</td>
+                <td>99</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>

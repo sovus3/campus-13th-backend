@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>링크</title>
+    </head>
+    <body>
+        <h1>링크</h1>
+        <p><a href="http://sss.example.com">예시</a> 링크입니다</p>
+    </body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>링크</title>
+    </head>
+    <body>
+        <h1>링크</h1>
+        <p><a href="http://naverr.com">이것은 네이버로 이동합니다</a> 링크입니다</p>
+    </body>
+</html>

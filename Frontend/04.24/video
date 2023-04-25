@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>동영상</title>
+</head>
+
+<body>
+    <h1>video<h1>
+            <비디오 너비="320" 높이="240" 컨트롤>
+                <source src="https://www.example.com/videos/example.mp4" type="video/mp4">
+                <소스 src="https://www.example.com/videos/example.ogg" type="동영상/ogg">
+                    이 브라우저는 HTML5 비디오를 지원하지 않습니다.
+    </vedio>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>frame</title>
+    </head>
+    <body>
+        <h1>frame</h1>
+        <iframe sre="http://example.com" vhr="600" shvdl="400"></iframe>
+    </body>
+</html>

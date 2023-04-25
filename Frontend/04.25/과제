@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS SElector example</title>
+    </head>
+<body>
+<h1>Lorem lpsum</h1>
+<p>이 요소는 단락 요소 입니다. 글자의 색 이름은 'crimson'입니다. font-style은 이택릭 입니다.</p>
+
+<p>이 요소는 단락 요소 입니다.1</p>
+<p>이 요소는 단락 요소 입니다.2</p>
+<p>이 요소는 단락 요소 입니다.3</p>
+
+
+    <ul>
+        <li>unordered list. ul->li의 구조를 가집니다.1</li>
+        <li>unordered list. ul->li의 구조를 가집니다.2</li>
+        <li>unordered list. ul->li의 구조를 가집니다.3</li>
+    </ul>
+</body>
+
+</html>
